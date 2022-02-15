@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set on electromagnetic wave theory.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-632-electromagnetic-wave-theory-spring-2003/0a52091d9da907e79a0f59383f5cea88_ps5.pdf
+file: /media/courses/6-632-electromagnetic-wave-theory-spring-2003/0a52091d9da907e79a0f59383f5cea88_ps5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set No. 5
 uid: 0a52091d-9da9-07e7-9a0f-59383f5cea88
