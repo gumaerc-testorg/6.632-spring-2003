@@ -5,6 +5,7 @@ file: /courses/6-632-electromagnetic-wave-theory-spring-2003/a5ab7b71d5f8b4adc0b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set No. 7
 uid: a5ab7b71-d5f8-b4ad-c0b0-c01aff0ac23c
 ---
 Problem set on electromagnetic wave theory.
-
