@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on electromagnetic wave theory.
-file: /courses/6-632-electromagnetic-wave-theory-spring-2003/9df5adebb7edb915a213adf42edeafe5_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-632-electromagnetic-wave-theory-spring-2003/9df5adebb7edb915a213adf42edeafe5_ps1.pdf
 file_size: 222673
 file_type: application/pdf
 learning_resource_types:
